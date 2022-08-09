@@ -1,9 +1,29 @@
-<h5>Print Function</h5>
+### Print Function
 
-<p style="text-align:center"><img alt="print function" height="228" src="https://dphi-courses.s3.ap-south-1.amazonaws.com/introduction-to-python-basics-for-data-science/print.png" width="444" /></p>
 
-<h5>Input Function</h5>
 
-<p style="text-align:center"><img alt="input function 1" height="293" src="https://dphi-courses.s3.ap-south-1.amazonaws.com/introduction-to-python-basics-for-data-science/image+1.png" width="418" /></p>
 
-<p style="text-align:center"><img alt="input function 2" height="173" src="https://dphi-courses.s3.ap-south-1.amazonaws.com/introduction-to-python-basics-for-data-science/image+2.png" width="302" /></p>
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_2ab5fcd874ba460ea61f7ea85ec323dd.png)
+
+
+
+
+
+### Input Function
+
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_0d5a7f644bc84411a98ac2b9f7f835d7.png)
+
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_c87d8387cf904180afdd18cf3073d994.png)
