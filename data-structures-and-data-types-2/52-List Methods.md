@@ -1,17 +1,22 @@
-# List Methods
-
-### **.append()**
+### .append()
 
 In Python, you can add values to the end of a list using the .append() method.
 
+
+
+
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_9de3a07de4cf45c2a3d65b4c1fe1b8ff.png)
 
-### **.count()**
+
+
+
+### .count()
 
 The .count() Python list method searches a list for whatever search term it receives as an argument, then returns the number of matching entries found.
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_612831671f40406d81361012ce27ad7c.png)
-### **len()**
+
+### len()
 
 The Python len() function can be used to determine the number of items found in the list it accepts as an argument.
 
