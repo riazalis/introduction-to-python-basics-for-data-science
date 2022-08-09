@@ -1,5 +1,3 @@
-# Strings
-
 ### Sequence Types
 
 * Sequences allow you to store multiple values in an **organized and efficient way**.
@@ -23,7 +21,18 @@
   **`print(a[1])`**
 * **Will give an output e. Can you understand why?**
 
+
+
+
+
+
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_e25fba17090d4b7fa3568c1fa7ac5773.png)
+
+
+
+
+
+
 
 * Hope you got the answer to the previous question now!
 
@@ -33,7 +42,14 @@
 * Specify the start index and the end index, separated by a colon, to return a part of the string. Note that the character of the end index is not included.
 * Suppose we want to print World from the string “Hello World”. We can do so as below:
 
+
+
+
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_d87f6a4428d7403c898454d5b5130844.png)
+
+
+
+
 
 ### Negative Indexing
 
@@ -52,19 +68,39 @@
 * Use the + character to add a variable to another variable:
 *   Example:
 
+
+
+
+
+
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_f99e3cec855e4e0ca673520d682ec3d8.png)
-* Another example:\
-  **`x = "Python is "`**\
-  **`y = "awesome"`**\
-  **`z =  x + y`**\
-  **`print(z)`**
+
+
+
+
+
+
+* Another example:  
+  ```
+  x = "Python is "
+  y = "awesome"
+  z =  x + y
+  print(z)
+  ```
 * **Output**: Python is awesome
 
 ### String Concatenation: Add Space
 
 * We can also add spaces between two strings
 
+
+
+
+
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_8d557ac674d54f3daff8c4324c7e1719.png)
+
+
+
 
 ### String Length
 
@@ -76,7 +112,7 @@
     **`print(len(a))`**
 * **Output: 13**
 
-### **String Methods**
+### String Methods
 
 * Python has a set of built-in methods that you can use on strings.
 * Must learn: Learn about important string methods from the below cheatsheet: [Python String Methods Cheatsheet](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet)&#x20;
