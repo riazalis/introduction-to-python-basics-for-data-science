@@ -1,5 +1,3 @@
-# Packages in Python
-
 * In simple terms Python packages are collections of multiple Python files.
 
 * And these Python files are known as modules in Python.
@@ -17,7 +15,7 @@
 
 * Similarly, as a directory can contain subdirectories and files, a Python package can have sub-packages and modules.
 
-* Directory/Folder of Python Scripts.
+* Packages are Directory/Folder of Python Scripts.
 
 * Where each script is a module that performs a specific function.
 
