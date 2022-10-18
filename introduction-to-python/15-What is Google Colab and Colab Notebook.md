@@ -1,6 +1,6 @@
 Now that we know the importance of Python in Data Science, let's try to understand the tools that we need to use to run Python for Data Science tasks.
 
-One of the popular toolkits that data scientists use to run their Python scripts is an interactive notebook. There are various ways in which you can setup an interactive notebook. In this module, we will learn one them, i.e., how to setup and use Google Colab.
+One of the popular toolkits that data scientists use to run their Python scripts is an interactive notebook. There are various ways in which you can setup an interactive notebook. In this module, we will learn one of them, i.e., how to setup and use Google Colab.
 
 ### What are Interactive Notebooks?
 
